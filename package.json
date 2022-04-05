@@ -1,0 +1,7 @@
+{
+  "name": "test-yarn-github-protocol",
+  "packageManager": "yarn@3.2.0",
+  "dependencies": {
+    "chalk": "github:Methuselah96/chalk"
+  }
+}
